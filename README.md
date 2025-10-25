@@ -1,5 +1,7 @@
 # Bid Document Processing System
 
+Repo link - https://github.com/SpaceTesla/emply-assignment
+
 A sophisticated RAG (Retrieval-Augmented Generation) pipeline for extracting structured information from bid documents using Docling, ChromaDB, LangChain, and Google Gemini.
 
 ## Features
@@ -46,7 +48,7 @@ The system extracts the following 20 fields from bid documents:
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SpaceTesla/emply-assignment
    cd emply-assignment
    ```
 
