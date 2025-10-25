@@ -1,0 +1,28 @@
+{
+  "directory": "Bid2",
+  "extraction_method": "RAG with LangChain + Gemini",
+  "model": "gemini-2.5-pro",
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "extracted_data": {
+    "bid_number": "BPM044557",
+    "title": "Dell Laptops w/Extended Warranty",
+    "due_date": "06/10/2024 02:00 PM EDT",
+    "bid_submission_type": "eMaryland Marketplace Advantage (eMMA) e-Procurement system",
+    "term_of_bid": "Please allow proposals/quotes provided in response to this PORFP to be valid for at least 90 days after the set due date above.",
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": "The Master Contractor must provide the estimated ship date/lead time for each item listed in the PORFP FA I",
+    "payment_terms": "Email invoices to: STOaccountspayable@treasurer.state.md.us. Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following: Contractor name, mailing address, social security number or Federal Tax ID number, and phone number. Reference the States assigned PORFP number. Date, invoice number and amount due. Proof of delivery including packing slip or delivery confirmation, and equipment serial numbers.",
+    "additional_documentation": "The Master Contractor must provide a Mercury Affidavit: https://doit.maryland.gov/contracts/Documents/hardware_co ntract/hwmercury_affidavit.pdf.",
+    "mfg_for_registration": "Dell",
+    "contract_cooperative": null,
+    "model_no": "5550",
+    "part_no": "CC7802",
+    "product": "Dell Latitude 5550",
+    "contact_info": "thawkins@treasurer.state.md.us",
+    "company_name": "State of Maryland Treasurer's Office",
+    "bid_summary": "This is a Small Business Reserve Procurement for Dell Laptops issued by the State Treasurer's Office/ Information Technology. Only Master Contractors that are awarded a contract under the Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007, are eligible to submit a bid.",
+    "product_specification": "Laptops must be"
+  }
+}
